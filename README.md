@@ -1,5 +1,6 @@
-# webpack4-basics
-webpack4 basic configuration using:
+# Webpack-4-Basics
+A very! basic plain js multiple page application built and
+managed by Webpack 4 using the following features:
 - loaders
 - plugins
 - dev/prod configuration files
