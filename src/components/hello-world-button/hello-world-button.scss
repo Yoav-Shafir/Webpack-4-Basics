@@ -1,0 +1,24 @@
+$font-size: 20px;
+$green: green;
+$button-font-color: white;
+$text-font-color: red;
+
+.hello-world-button {
+  font-size: $font-size;
+  padding: 7px 15px;
+  background: $green;
+  color: $button-font-color;
+  outline: none;
+}
+
+.hello-world-text {
+  color: $green;
+  font-weight: bold;
+}
+
+.my-dropdown {
+  float: right;
+  position: relative;
+  top: 7px;
+  right: 40px;
+}
